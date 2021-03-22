@@ -9,3 +9,5 @@ Start select works globally. It even works on bosses! Except for K Rool, since h
 
 # KNOWN BUGS
 There is a slight glitch in cave levels where the left side of the screen (behind you) does not shrink.
+
+Any A press in Torchlight temporarily turns the screen blue.
