@@ -8,6 +8,5 @@ Changing the difficulty can be changed anytime by pressing l or r on the overwor
 Start select works globally. It even works on bosses! Except for K Rool, since he is the only stage accessed from the outer world map. This allows you to 'pause out' of levels you haven't beaten yet.
 
 # KNOWN BUGS
-There is a slight glitch in cave levels where the left side of the screen (behind you) does not shrink.
+There is a slight glitch in cave levels where the left side of the screen (behind you) does not shrink. This is not major and it doesn't help you in the fordwards direction, so it is not a big deal.
 
-Any A press in Torchlight temporarily turns the screen blue.
